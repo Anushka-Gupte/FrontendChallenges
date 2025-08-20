@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/ProjectImages/ProductCard.jpeg)
+![](/ProjectImages/ProductCard%20(2).jpeg)
 
 
 ## My process
